@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Maria Gabriela Oliveira Costa</Text>
-      <Text>Desenvolvimento de Dispositivos Móveis</Text>
+      <Text>Desenvolvimento de Dispositivos </Text>
+      <Text>Aula DDM - 29/2</Text>
       <StatusBar style="auto" />
     </View>
   );
