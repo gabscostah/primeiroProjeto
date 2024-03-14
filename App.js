@@ -7,8 +7,11 @@ export default function App() {
       <Text>Maria Gabriela Oliveira Costa</Text>
       <Text>Desenvolvimento de Dispositivos </Text>
       <Text>Aula DDM - 29/2</Text>
+      <Text>13/03</Text>
       <br></br>
       <Button title='Salvar'></Button>
+      <Button title='entrar'></Button>
+
       <StatusBar style="auto" />
     </View>
   );
