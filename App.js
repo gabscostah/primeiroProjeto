@@ -11,6 +11,7 @@ export default function App() {
       <br></br>
       <Button title='Salvar'></Button>
       <Button title='entrar'></Button>
+      <Button title='Apagar'></Button>
 
       <StatusBar style="auto" />
     </View>
